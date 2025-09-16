@@ -1,17 +1,29 @@
 {
-	"name": "",
-	"formspark_id": null,
-	"botpoison_public_key": null,
-	"url": "https://example.chobble.com",
+	"name": "Beyond Bounce",
+	"url": "https://beyondbounce.co.uk",
+	"webhost": "neocities",
+	"description": "Bouncy Castle Hire in Bexley, Welling, Sidcup, Chislehurst & Dartford - Beyond Bounce is the company to choose for a quality experience. Book online!",
 	"socials": {
-		"Facebook": null,
+		"Facebook": "https://www.facebook.com/beyondbounce/",
 		"Instagram": null,
 		"TikTok": null,
-		"Google": null,
-		"WhatsApp": null,
-		"RSS": "/feed.xml"
+		"Google": "/google-review",
+		"WhatsApp": "https://api.whatsapp.com/send?phone=447534310292",
+		"RSS": "/feed.xml",
+		"YouTube": "https://www.youtube.com/@beyondbounce6437"
 	},
-	"sticky_mobile_nav": true,
-	"horizontal_nav": true,
-	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
+	"opening_times": [
+		{
+			"day": "Monday - Friday",
+			"hours": "9:00 AM - 6:00 PM"
+		},
+		{
+			"day": "Saturday",
+			"hours": "9:00 AM - 5:00 PM"
+		},
+		{
+			"day": "Sunday", 
+			"hours": "10:00 AM - 4:00 PM"
+		}
+	]
 }

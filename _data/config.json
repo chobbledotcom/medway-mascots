@@ -1,0 +1,20 @@
+{
+	"formspark_id": "qlvrrsQB9",
+	"botpoison_public_key": "pk_bbb182a9-1ff3-4d9a-839c-06e45f41a6e6",
+	"map_embed_src": null,
+	"sticky_mobile_nav": true,
+	"horizontal_nav": true,
+	"enable_theme_switcher": false,
+	"template_repo_url": "https://github.com/chobbledotcom/chobble-template",
+	"chobble_link": "https://chobble.com/services/chobble-template/",
+	"stripe_publishable_key": null,
+	"products": {
+		"product_thumb_widths": "240,480,640",
+		"product_thumb_sizes": "224px",
+		"category_thumb_widths": "900,1300",
+		"category_thumb_sizes": "224px",
+		"gallery_thumb_widths": "240,480",
+		"gallery_image_widths": "900,1300",
+		"header_image_widths": "640,900,1300"
+	}
+}
