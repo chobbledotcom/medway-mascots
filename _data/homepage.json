@@ -1,5 +1,5 @@
 {
-	"show_products": true,
-	"show_menus": false,
-	"show_news": false
+  "show_products": true,
+  "show_menus": true,
+  "show_news": true
 }
