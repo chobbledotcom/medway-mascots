@@ -1,17 +1,17 @@
 ---
 header_text: Beyond Bounce
-meta_description: Bouncy Castle Hire in Bexley, Welling, Sidcup, Chislehurst & Dartford - Beyond Bounce is the company to choose for a quality experience
+meta_description: Bouncy Castle Hire in Bexley, Welling, Sidcup, Chislehurst &
+  Dartford - Beyond Bounce is the company to choose for a quality experience
 meta_title: Beyond Bounce | Bouncy Castle & Party Hire Dartford and Bexley
-permalink: "/"
-layout: "home.html"
 eleventyNavigation:
   key: Home
   order: 1
+layout: home.html
+permalink: /
 ---
+# Professional Mascot Costume Hire in Medway, Kent and South East London
 
-# Professional Mascot Costume Hire in Kent and South East London
-
-Welcome to Beyond Bounce's mascot costume hire service! Since 2013, we've been bringing beloved characters to life at parties and events across Kent, including Dartford, Bexleyheath, Welling, Sidcup, Gravesend, and surrounding areas.
+Welcome to our mascot costume hire service! Since 2018, we've been bringing beloved characters to life at parties and events across Kent, including Dartford, Bexleyheath, Welling, Sidcup, Gravesend, and surrounding areas.
 
 ## Our Character Collection
 
@@ -59,17 +59,21 @@ We proudly serve communities throughout Kent and South East London:
 
 ## Perfect for Every Occasion
 
-Our mascot costumes create magical moments at:
+Our mascot costumes create moments that last for a wide range of events:
 - **Children's Birthday Parties** - Make their special day unforgettable
 - **School Events** - Add excitement to fetes, fundraisers, and celebrations
-- **Corporate Functions** - Family-friendly entertainment for company events
-- **Community Gatherings** - Bring characters to local festivals and charity events
+- **Corporate Events** - Family-friendly entertainment for company parties
+- **Shows** - Bring characters to local festivals and charity events
+- **Meet & Greets** 
+- **Shop Openings**
+- 
+- 
 
 ## How It Works
 
 1. **Browse** our character collection and choose your favourites
-2. **Contact** us via phone (07534 310292) or our online enquiry form
-3. **Collect** from our Kent locations or arrange local delivery
+2. **Contact** us via phone (07359 308641) or our online enquiry form
+3. **Collect** from our Medway location at 56 Twydall Lane, Gillingham, ME8 6JE or arrange local delivery
 4. **Enjoy** watching the magic unfold at your event
 5. **Return** the costume after your celebration
 
