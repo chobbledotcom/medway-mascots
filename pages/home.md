@@ -28,7 +28,7 @@ Transform your event with our extensive range of professional mascot costumes fe
 - **Hulk** - The incredible green giant for superhero celebrations
 
 ### Popular Characters
-- **Pokémon** - Pikachu costume for anime and gaming fans
+- **Pikachu Mascot Hire** - Pikachu is hard to miss anywhere 
 - **Minions** - One-eye, two-eye, and evil variants available
 - **Trolls** - Poppy and Branch for colourful party themes
 - **Shopkins** - Strawberry Lush Lips, Kookie Cookie, and Lippy Lipstick
@@ -39,15 +39,6 @@ Transform your event with our extensive range of professional mascot costumes fe
 - **Stitch** - The loveable alien experiment
 - **Sully** - From Monsters Inc for Disney Pixar fans
 
-## Why Choose Beyond Bounce for Mascot Hire?
-
-**Professional Quality** - All costumes are maintained to high standards with regular cleaning between hires
-
-**Flexible Options** - Hire costumes independently or combine with our bouncy castle packages for extra savings
-
-**Local Service** - Based in Kent, we understand the local party scene and provide reliable, personal service
-
-**Easy Booking** - No upfront deposits required, with flexible collection and delivery options
 
 ## Service Areas
 
@@ -66,8 +57,8 @@ Our mascot costumes create moments that last for a wide range of events:
 - **Shows** - Bring characters to local festivals and charity events
 - **Meet & Greets** 
 - **Shop Openings**
-- 
-- 
+- **Shopping Centres**
+
 
 ## How It Works
 
@@ -79,7 +70,7 @@ Our mascot costumes create moments that last for a wide range of events:
 
 ## Get Started Today
 
-Ready to bring beloved characters to your next event? Contact Beyond Bounce to check availability and discuss your mascot costume hire needs. With over a decade of experience creating memorable moments, we're here to help make your celebration truly special.
+Ready to bring beloved characters to your next event? Contact  to check availability and discuss your mascot costume hire needs. With over a decade of experience creating memorable moments, we're here to help make your celebration truly special.
 
-**Call:** 07534 310 292  
+**Call:** 07359 308641 
 **Hours:** Monday-Friday 9AM-6PM, Saturday 9AM-5PM, Sunday 10AM-4PM
