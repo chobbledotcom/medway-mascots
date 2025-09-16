@@ -1,13 +1,10 @@
 ---
 title: "Paw Patrol Premium Mascots "
 featured: true
-header_text: Toy Story Characters
-meta_description: Hire Toy Story character mascot costumes including Buzz
-  Lightyear, Woody and Jessie for your party or event. Pixar character hire
-  service.
-meta_title: Toy Story Character Mascot Costume Hire | Buzz Lightyear, Woody &
-  Jessie | Beyond Mascots
-subtitle: Pixar Toy Story character costume hire
+header_text: Skye, Marshall and Chase Mascot Hire
+meta_description: "Hire a range of mascots online "
+meta_title: Paw Patrol Mascot Hire Gravesend, Dartford, Chatham and throughout
+  Medway & Kent | Medway Mascots
 ---
 Our premium mascots have been made with extra attention to detail, quality materials and a more comfatable user experience.
 
