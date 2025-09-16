@@ -15,15 +15,19 @@ name: right-content
 
 ---
 
-### Service Areas
+### Delivery Areas
 
 We offer free local delivery to:
-- Gillingham, Chatham,  
-- 
+- Gillingham, Chatham, Parkwood, Hempstead, Rainham, Strood, Rochester, Wainscott, Lordswood, Walderslade, Bredhurst & surrounding areas local to Twydall. 
+
+ We also deliver to most parts of Kent, Medway & South East London for a delivery and collection charge of £25, these areas include:
+- Maidstone & Sevenoaks
 - Welling & Sidcup  
 - Erith & Crayford
 - Swanley & Gravesend
-- 
+- Dartford & Bexley
+
+  
 
 ---
 
