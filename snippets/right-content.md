@@ -1,7 +1,6 @@
 ---
 name: right-content
 ---
-
 ### Opening Hours
 
 {% opening_times %}
@@ -10,7 +9,7 @@ name: right-content
 
 ### Contact Us
 
-- **Phone:** [07534 310 292](tel:07534310292)
+- **Phone:** [07359308641](tel:07534310292)
 - **WhatsApp:** [Message Us](https://api.whatsapp.com/send?phone=447534310292)
 - **Facebook:** [@beyondbounce](https://www.facebook.com/beyondbounce/)
 
@@ -18,12 +17,13 @@ name: right-content
 
 ### Service Areas
 
-We deliver to:
-- Dartford & Bexleyheath
+We offer free local delivery to:
+- Gillingham, Chatham,  
+- 
 - Welling & Sidcup  
 - Erith & Crayford
 - Swanley & Gravesend
-- Throughout Kent & SE London
+- 
 
 ---
 
