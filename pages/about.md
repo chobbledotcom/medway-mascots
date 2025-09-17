@@ -1,7 +1,7 @@
 ---
-header_text: About Beyond Bounce
-meta_description: Learn about Beyond Bounce - your local, reliable, and safety-focused inflatable hire company serving South East London since 2013
-meta_title: About Beyond Bounce | Bouncy Castle & Party Hire Kent & South East London
+header_text: About Medway Mascots
+meta_description: Learn about Medway Mascots - your local, reliable, and safety-focused inflatable hire company serving South East London since 2013
+meta_title: About Medway Mascots | Bouncy Castle & Party Hire Kent & South East London
 subtitle: Your trusted party hire specialists since 2013
 eleventyNavigation:
   key: About
@@ -10,15 +10,15 @@ layout: base.html
 permalink: /about/
 ---
 
-# About Beyond Bounce
+# About Medway Mascots
 
-Welcome to Beyond Bounce – your local, reliable, and safety-focused inflatable hire company based in South East London. We've been bringing joy and energy to parties, school events, corporate functions, and fundraisers since 2013, and we're proud to serve communities across Bexleyheath, Dartford, Welling, Sidcup, Erith, Crayford, Swanley and surrounding areas.
+Welcome to Medway Mascots – your local, reliable, and safety-focused inflatable hire company based in South East London. We've been bringing joy and energy to parties, school events, corporate functions, and fundraisers since 2013, and we're proud to serve communities across Bexleyheath, Dartford, Welling, Sidcup, Erith, Crayford, Swanley and surrounding areas.
 
 What started as a small family-run business has grown into one of the most recognisable names in local event hire. But while our product range has expanded significantly over the years, our values have stayed exactly the same: reliable service, straightforward pricing, a strong focus on safety, and a team that genuinely cares about helping you have a smooth, stress-free hire experience.
 
-## Why Choose Beyond Bounce?
+## Why Choose Medway Mascots?
 
-We know there are a lot of hire companies out there – so why do so many customers come back to Beyond Bounce again and again?
+We know there are a lot of hire companies out there – so why do so many customers come back to Medway Mascots again and again?
 
 ### Extensive Product Range
 

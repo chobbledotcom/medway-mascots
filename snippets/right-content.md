@@ -31,7 +31,7 @@ We offer free local delivery to:
 
 ---
 
-### Why Choose Beyond Bounce?
+### Why Choose Medway Mascots?
 
 ✅ **Safety First** - Fully insured & inspected  
 ✅ **Local Family Business** - Serving since 2013  
