@@ -7,8 +7,8 @@
   --border: 2px solid #000000;
   --box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
   --font-family-heading:
-    Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
-    sans-serif;
+    "Caveat Brush", Inter, Roboto, "Helvetica Neue", "Arial Nova",
+    "Nimbus Sans", Arial, sans-serif;
   --font-family-body:
     Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
     sans-serif;
@@ -18,6 +18,7 @@
   --header-text-color: #ffffff;
   --form-button-border: 2px solid #58648c;
   --form-button-hover-border: 2px solid #ffffff;
+  --main-heading-color: #55104e;
 }
 
 /* body_classes: header-centered-dark */
@@ -26,4 +27,8 @@ body > footer .socials li a img,
 body > footer .socials li a:hover img {
   filter: invert(11%) sepia(29%) saturate(7433%) hue-rotate(291deg)
     brightness(86%) contrast(97%);
+}
+
+nav {
+  font-size: 2rem;
 }
