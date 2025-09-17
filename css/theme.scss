@@ -1,20 +1,29 @@
 :root {
-  --color-bg: #ffffff;
-  --color-text: #000000;
-  --color-link: #ffffff;
+  --color-bg: #ffe8f4;
+  --color-text: #251a24;
+  --color-link: #55104e;
   --color-bg-secondary: #ffc7e3;
-  --border-radius: 17px;
+  --border-radius: 5px;
   --border: 2px solid #000000;
-  --box-shadow: 8px 10px 0 rgba(0, 0, 0, 0.3);
-  --width-card-wide: 925px;
-  --font-family-body: Optima, Candara, "Noto Sans", source-sans-pro, sans-serif;
+  --box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+  --font-family-heading:
+    Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
+    sans-serif;
+  --font-family-body:
+    Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
+    sans-serif;
   --link-decoration: underline;
   --link-decoration-hover: underline;
-  --link-decoration-style: dashed;
+  --link-decoration-style: dotted;
   --header-text-color: #ffffff;
   --form-button-border: 2px solid #58648c;
   --form-button-hover-border: 2px solid #ffffff;
 }
 
-
 /* body_classes: header-centered-dark */
+
+body > footer .socials li a img,
+body > footer .socials li a:hover img {
+  filter: invert(11%) sepia(29%) saturate(7433%) hue-rotate(291deg)
+    brightness(86%) contrast(97%);
+}
