@@ -1,7 +1,7 @@
 ---
 header_text: Our Mascot Costumes
 meta_description: Browse our complete collection of mascot costumes for hire in Kent and South East London - Disney characters, superheroes, and more
-meta_title: Mascot Costume Hire | Disney Characters & More | Beyond Bounce
+meta_title: Mascot Costume Hire | Disney Characters & More | Medway Mascots
 subtitle: Bring your favourite characters to life
 eleventyNavigation:
   key: Products

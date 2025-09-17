@@ -1,8 +1,8 @@
 ---
-header_text: Beyond Bounce
+header_text: Medway Mascots
 meta_description: Bouncy Castle Hire in Bexley, Welling, Sidcup, Chislehurst &
-  Dartford - Beyond Bounce is the company to choose for a quality experience
-meta_title: Beyond Bounce | Bouncy Castle & Party Hire Dartford and Bexley
+  Dartford - Medway Mascots is the company to choose for a quality experience
+meta_title: Medway Mascots | Bouncy Castle & Party Hire Dartford and Bexley
 eleventyNavigation:
   key: Home
   order: 1
