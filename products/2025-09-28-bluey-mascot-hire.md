@@ -5,6 +5,7 @@ categories:
 price: "50"
 gallery:
   - /images/Product Images/blueycostume.jpg
+header_text: Self Hire Mascot Service
 meta_description: Plus over 25 high quality mascots you can self hire from
   Medway Mascots, the party experts
 meta_title: Bluey Mascot & Costume Hire in Gillingham, Rainham, Hempstead,
