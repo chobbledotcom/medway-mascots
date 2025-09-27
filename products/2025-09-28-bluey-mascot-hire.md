@@ -2,7 +2,7 @@
 title: Bluey Mascot Hire
 categories:
   - categories/mascot-hire.md
-price: "50"
+price: £50
 gallery:
   - /images/Product Images/blueycostume.jpg
 header_text: Self Hire Mascot Service
