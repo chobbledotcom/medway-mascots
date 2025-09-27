@@ -10,6 +10,7 @@ meta_description: Plus over 25 high quality mascots you can self hire from
   Medway Mascots, the party experts
 meta_title: Bluey Mascot & Costume Hire in Gillingham, Rainham, Hempstead,
   Parkwood, Wigmore, Rochester, Chatham, Bredhurst, Parkwood and Medway
+subtitle: Hire throughout Medway & Kent
 ---
 💙 Bluey Mascot Hire - Bring the fun to your party! 💙
 
