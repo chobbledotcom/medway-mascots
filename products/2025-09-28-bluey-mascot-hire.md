@@ -4,7 +4,7 @@ categories:
   - categories/mascot-hire.md
 price: "50"
 gallery:
-  - /images/blueycostume.jpg
+  - /images/Product Images/blueycostume.jpg
 meta_description: Plus over 25 high quality mascots you can self hire from
   Medway Mascots, the party experts
 meta_title: Bluey Mascot & Costume Hire in Gillingham, Rainham, Hempstead,
