@@ -1,5 +1,5 @@
 ---
-title: Paw Patrol Mascot
+title: Rubble Mascot
 categories:
   - categories/mascot-hire.md
   - categories/superhero-mascots.md
