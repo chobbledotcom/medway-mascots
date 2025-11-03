@@ -1,6 +1,6 @@
 ---
 header_text: Mascot Hire Erith
 eleventyNavigation:
-  url: /mascot-hire-erith
+  url: /mascot-hire-erith/
 ---
 Mascot Hire Erith
