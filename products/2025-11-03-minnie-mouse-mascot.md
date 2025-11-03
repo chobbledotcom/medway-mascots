@@ -2,6 +2,6 @@
 title: Minnie Mouse Mascot
 categories:
   - categories/mascot-hire.md
-price: Minnie Mouse Mascot
+price: "50"
 ---
 Minnie Mouse Mascot
