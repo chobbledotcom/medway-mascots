@@ -1,5 +1,5 @@
 ---
-title: Minions Mascot
+title: Minions Mascot (Evil)
 categories:
   - categories/mascot-hire.md
   - categories/disney-mascots.md
