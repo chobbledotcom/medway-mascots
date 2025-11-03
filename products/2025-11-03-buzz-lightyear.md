@@ -1,5 +1,5 @@
 ---
-title: Buzz Lightyear
+title: Buzz Lightyear Mascot
 categories:
   - categories/mascot-hire.md
   - categories/toy-story-mascots.md
