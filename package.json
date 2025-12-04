@@ -1,15 +1,10 @@
 {
-	"name": "chobble-client",
-	"version": "1.0.0",
-	"description": "Chobble.com client website",
-	"scripts": {
-		"serve": "node scripts/serve.js",
-		"build": "node scripts/build.js",
-		"prepare-dev": "node scripts/prepare-dev.js",
-		"sync-files": "node scripts/sync-files.js",
-		"watch": "node scripts/watch.js",
-		"update-pages": "node scripts/update-pages.js",
-		"clean": "rm -rf .build _site"
-	},
-	"devDependencies": {}
+  "name": "medway-mascots",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "node scripts/serve.js",
+    "build": "node scripts/build.js"
+  },
+  "devDependencies": {},
+  "dependencies": {}
 }
