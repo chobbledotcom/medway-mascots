@@ -33,6 +33,7 @@ jobs:
             flake.nix
             flake.lock
             bin
+            images
             packages
             src
 
@@ -45,7 +46,6 @@ jobs:
             --delete \
             --exclude=".git" \
             --exclude="*.md" \
-            --exclude="images" \
             template/ \
             combined/
 
