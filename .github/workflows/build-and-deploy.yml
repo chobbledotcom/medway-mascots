@@ -32,6 +32,7 @@ jobs:
             flake.nix
             flake.lock
             bin
+            packages
             src
 
       - name: Copy template files to combined dir
