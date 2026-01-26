@@ -1,5 +1,5 @@
 ---
-title: Shopkins Mascots
+title: Christmas Mascots
 featured: false
 ---
-Shopkins Mascots
+Christmas Mascots
