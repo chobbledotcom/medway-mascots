@@ -1,5 +1,5 @@
 ---
-title: Frozen Mascots
+title: Bluey Mascots
 featured: false
 ---
-Frozen Mascots
+Bluey Mascots
