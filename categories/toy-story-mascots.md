@@ -1,5 +1,5 @@
 ---
-title: Toy Story Mascots
+title: Super Mario Mascots
 featured: false
 ---
-Toy Story Mascots
+Super Mario Mascots
