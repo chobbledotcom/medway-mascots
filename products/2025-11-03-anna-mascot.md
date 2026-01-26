@@ -1,5 +1,6 @@
 ---
 title: Anna Mascot
+header_image: /images/Product Images/hireamascot.jpeg
 categories:
   - categories/mascot-hire.md
   - categories/frozen-mascots.md
