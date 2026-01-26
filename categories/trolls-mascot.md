@@ -1,4 +1,4 @@
 ---
-title: Trolls Mascot
+title: Peppa Pig Mascots
 featured: false
 ---
