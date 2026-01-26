@@ -1,4 +1,5 @@
 ---
+header_image: /images/medwaymascots2.jpg
 header_text: Medway Mascots
 meta_description: Bouncy Castle Hire in Bexley, Welling, Sidcup, Chislehurst &
   Dartford - Medway Mascots is the company to choose for a quality experience
