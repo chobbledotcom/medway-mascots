@@ -12,7 +12,25 @@ permalink: /
 ---
 # Professional Mascot Costume Hire in Medway, Kent and South East London
 
-Welcome to our mascot costume hire service! Since 2018, we've been bringing beloved characters to life at parties and events across Kent, including Dartford, Bexleyheath, Welling, Sidcup, Gravesend, and surrounding areas.
+Welcome to Medway Mascots
+
+If you’re looking for reliable, friendly and affordable mascot hire Medway, you’re in exactly the right place. At Medway Mascots, we provide a growing range of high-quality mascot costumes for children’s parties, family events, schools, nurseries and local celebrations across Medway and surrounding areas.
+
+We’re a local, Medway-based business, not a national courier-only company. That means clearer pricing, easier collections, and real people you can speak to before your event. Whether you’re planning a birthday party at home, a school fun day, or a community event, our mascot hire service is designed to be simple, flexible and stress-free.
+
+## Local Mascot Hire in Medway You Can Trust
+
+Our mascot hire Medway service is built around local families and organisers. We don’t believe in posting costumes out nationwide as standard — instead, we focus on safe, reliable local hire with clear options that suit parents and event organisers alike.
+
+You can:
+
+Collect your mascot costume locally from our Gillingham address
+
+Choose low-cost local delivery and collection if you prefer convenience
+
+Hire with confidence knowing costumes are checked, cleaned and ready for use
+
+This local-first approach allows us to keep prices fair while offering a much more personal service than larger national companies.
 
 ## Our Character Collection
 
