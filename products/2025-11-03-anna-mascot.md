@@ -6,5 +6,7 @@ categories:
   - categories/frozen-mascots.md
   - categories/disney-mascots.md
 price: £50
+gallery:
+  - /images/Product Images/hireamascot.jpeg
 ---
 Anna Mascot
