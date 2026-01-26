@@ -1,5 +1,5 @@
 ---
-title: Superhero Mascots
+title: Ninja Turtle Mascots
 featured: false
 ---
-Superhero Mascots
+Teenage Mutant Ninja Turtles Mascots
