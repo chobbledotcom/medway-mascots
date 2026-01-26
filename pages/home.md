@@ -34,23 +34,24 @@ This local-first approach allows us to keep prices fair while offering a much mo
 
 ## Our Character Collection
 
-Transform your event with our extensive range of professional mascot costumes featuring everyone's favourite characters:
+Our mascot collection has been carefully chosen to suit children’s parties, family events and local celebrations across Medway and surrounding areas. We offer a fantastic mix of popular TV characters, party favourites and fun costume options that children instantly recognise and love. From favourites like Bluey and Bingo, Chase, Marshall and Skye, Peppa Pig, Gabby’s Dollhouse, Mickey and Minnie Mouse, Mario and Luigi, through to fun options like a Minion, Stitch, Pink Unicorn and even a Lion, there’s something to suit almost every party theme.
+
+We also offer seasonal and event-friendly mascots, including The Grinch and Elf on the Shelf, making our collection ideal for Christmas parties and festive events. Every mascot costume is checked, cleaned and well maintained before hire, giving you confidence that it’s ready for photos, fun and unforgettable moments. Whether you’re hosting a birthday party at home or organising a school or community event, our mascot collection offers a reliable, local and hassle-free alternative to national courier-based companies.
 
 ### Disney Characters
 - **Mickey & Minnie Mouse** - The classic Disney duo for any celebration
-- **Donald Duck** - Bring Disney magic with this timeless character  
-- **Frozen Collection** - Anna, Elsa, Olaf, and Sven for winter wonderland themes
-- **Toy Story Heroes** - Buzz Lightyear, Woody, and Jessie for adventure-themed parties
 
-### Superheroes
-- **Iron Man** - Marvel's armoured superhero for action-packed events
-- **Hulk** - The incredible green giant for superhero celebrations
+
+### Paw Patrol
+- **Chase** - 
+- **Skye** - 
+- **Marshall** - 
 
 ### Popular Characters
-- **Pikachu Mascot Hire** - Pikachu is hard to miss anywhere 
+- **Peppa Pig** - Pikachu is hard to miss anywhere 
 - **Minions** - One-eye, two-eye, and evil variants available
-- **Trolls** - Poppy and Branch for colourful party themes
-- **Shopkins** - Strawberry Lush Lips, Kookie Cookie, and Lippy Lipstick
+- **Unicorns** - Poppy and Branch for colourful party themes
+- **Alex The Lion** - Strawberry Lush Lips, Kookie Cookie, and Lippy Lipstick
 - **Hello Kitty** - The beloved cat character for all ages
 
 ### Animal Characters  
