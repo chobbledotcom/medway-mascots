@@ -1,9 +1,9 @@
 {
-	"name": "medway-mascots",
+	"name": "chobble-client",
 	"version": "1.0.0",
 	"type": "module",
 	"packageManager": "bun@1.2.13",
-	"description": "Medway Mascots website",
+	"description": "Chobble.com client website",
 	"scripts": {
 		"preinstall": "node -e \"if(!process.env.npm_config_user_agent.startsWith('bun')){console.error('Use bun, not npm/yarn/pnpm');process.exit(1)}\"",
 		"serve": "bun scripts/serve.js",
