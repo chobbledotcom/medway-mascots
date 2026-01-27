@@ -1,6 +1,7 @@
 @charset "utf-8";
 @use "sass:color";
 @use "sass:math";
+@use "breakpoints";
 
 /* Poppins font - mirrored locally from Bunny Fonts */
 @font-face {
@@ -76,6 +77,10 @@ body {
 header {
   background: rgba(0, 0, 0, 0.5);
   color: white;
+  @include breakpoints.down("md") {
+    background: none;
+    border: none;
+  }
 }
 
 header img {
