@@ -69,6 +69,12 @@ header {
   color: white;
 }
 
+.site-header img {
+  display: block;
+  max-width: 30rem;
+  margin: 2rem auto;
+}
+
 /* body_classes: header-centered-dark */
 
 body > footer .socials li a img,
