@@ -70,25 +70,6 @@ jobs:
             's/"botpoison_public_key": null/"botpoison_public_key": "${{ secrets.BOTPOISON_PUBLIC_KEY }}"/g' \
             "combined/src/_data/site.json"
 
-      - name: Upload combined directory
-        uses: actions/upload-artifact@v4
-        with:
-          name: combined-files
-          path: combined/
-          retention-days: 1
-          include-hidden-files: true
-
-  build:
-    name: Build Site
-    needs: setup
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download combined directory
-        uses: actions/download-artifact@v4
-        with:
-          name: combined-files
-          path: combined
-
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
 
@@ -109,24 +90,6 @@ jobs:
           bun --bun run eleventy
           mkdir -p ../_site
           mv _site/* ../_site/
-
-      - name: Upload built site
-        uses: actions/upload-artifact@v4
-        with:
-          name: built-site
-          path: _site/
-          retention-days: 1
-
-  deploy:
-    name: Deploy
-    needs: [setup, build]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download built site
-        uses: actions/download-artifact@v4
-        with:
-          name: built-site
-          path: _site
 
       - name: Deploy to Bunny
         uses: R-J-dev/bunny-deploy@v2.0.6
