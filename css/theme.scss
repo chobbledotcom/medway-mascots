@@ -44,8 +44,8 @@
   --border: 2px solid #000000;
   --box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
   --font-family-heading:
-    "Poppins", Inter, Roboto, "Helvetica Neue", "Arial Nova",
-    "Nimbus Sans", Arial, sans-serif;
+    "Poppins", Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans",
+    Arial, sans-serif;
   --font-family-body:
     "Poppins", Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans",
     Arial, sans-serif;
@@ -61,6 +61,7 @@
 /* Gradient background */
 body {
   background: linear-gradient(135deg, #ffe8f4 0%, #ffd6eb 50%, #ffc7e3 100%);
+  background: url("/images/background.webp");
   background-attachment: fixed;
 }
 
