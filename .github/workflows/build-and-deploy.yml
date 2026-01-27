@@ -9,8 +9,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  setup:
-    name: Merge Repos
+  build:
+    name: Build
     runs-on: ubicloud-standard-8
     steps:
       - name: Checkout this repo
@@ -108,7 +108,7 @@ jobs:
   notify-failure:
     name: Notify on Failure
     runs-on: ubuntu-latest
-    needs: [setup, build, deploy]
+    needs: [build]
     if: failure()
     steps:
       - name: Send failure notification
