@@ -11,6 +11,15 @@
   src: url("/assets/fonts/poppins-400.woff2") format("woff2");
 }
 
+/* Dela Gothic One font - mirrored locally from Bunny Fonts */
+@font-face {
+  font-family: "Dela Gothic One";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/dela-gothic-one-400.woff2") format("woff2");
+}
+
 @font-face {
   font-family: "Poppins";
   font-style: normal;
@@ -81,4 +90,8 @@ body > footer .socials li a img,
 body > footer .socials li a:hover img {
   filter: invert(11%) sepia(29%) saturate(7433%) hue-rotate(291deg)
     brightness(86%) contrast(97%);
+}
+
+h1 {
+  font-family: "Dela Gothic One", sans-serif;
 }
