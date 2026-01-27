@@ -2,6 +2,39 @@
 @use "sass:color";
 @use "sass:math";
 
+/* Poppins font - mirrored locally from Bunny Fonts */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/poppins-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/assets/fonts/poppins-500.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/fonts/poppins-600.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/poppins-700.woff2") format("woff2");
+}
+
 :root {
   --color-bg: #ffe8f4;
   --color-text: #251a24;
@@ -11,11 +44,11 @@
   --border: 2px solid #000000;
   --box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
   --font-family-heading:
-    "Caveat Brush", Inter, Roboto, "Helvetica Neue", "Arial Nova",
+    "Poppins", Inter, Roboto, "Helvetica Neue", "Arial Nova",
     "Nimbus Sans", Arial, sans-serif;
   --font-family-body:
-    Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
-    sans-serif;
+    "Poppins", Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans",
+    Arial, sans-serif;
   --link-decoration: underline;
   --link-decoration-hover: underline;
   --link-decoration-style: dotted;
@@ -23,6 +56,21 @@
   --form-button-border: 2px solid #58648c;
   --form-button-hover-border: 2px solid #ffffff;
   --main-heading-color: #55104e;
+}
+
+/* Gradient background */
+body {
+  background: linear-gradient(135deg, #ffe8f4 0%, #ffd6eb 50%, #ffc7e3 100%);
+  background-attachment: fixed;
+}
+
+/* Lighter background on main content area */
+main {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px rgba(85, 16, 78, 0.1);
 }
 
 /* body_classes: header-centered-dark */
