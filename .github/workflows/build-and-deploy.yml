@@ -11,7 +11,7 @@ concurrency:
 jobs:
   setup:
     name: Merge Repos
-    runs-on: ubuntu-latest
+    runs-on: ubicloud-standard-8
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
