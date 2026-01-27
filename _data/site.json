@@ -27,7 +27,8 @@
 			"categories",
 			"news",
 			"team",
-			"reviews"
+			"reviews",
+			"locations"
 		],
 		"features": {
 			"permalinks": false,

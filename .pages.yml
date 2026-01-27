@@ -230,6 +230,52 @@ content:
         fields:
           - { name: question, type: string, label: Question, required: true }
           - { name: answer, type: string, label: Answer, required: true }
+  - name: locations
+    label: Locations
+    path: locations
+    type: collection
+    subfolders: true
+    filename: "{primary}.md"
+    view:
+      fields:
+        - thumbnail
+        - title
+        - subtitle
+      primary: title
+      sort:
+        - title
+    fields:
+      - { name: title, type: string, label: Title }
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: order, type: number, label: Order }
+      - name: categories
+        label: Categories
+        type: reference
+        options:
+          collection: categories
+          multiple: true
+          search: title
+          value: "{path}"
+          label: "{title}"
+      - { name: body, type: rich-text, label: Body }
+      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
+      - name: gallery
+        type: image
+        label: Gallery
+        options:
+          multiple: true
   - name: homepage
     label: Homepage Settings
     type: file
