@@ -1,4 +1,4 @@
 ---
-header_text: Mascot Hire Sidcup
+title: Mascot Hire Sidcup
 permalink: /mascot-hire-sidcup/
 ---

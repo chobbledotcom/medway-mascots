@@ -1,4 +1,4 @@
 ---
-header_text: Mascot Hire Medway
+title: Mascot Hire Medway
 permalink: /mascot-hire-medway/
 ---
