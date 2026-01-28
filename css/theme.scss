@@ -82,10 +82,32 @@ body {
       border: none;
       box-shadow: none;
     }
-    img {
+  }
+  .site-header {
+    display: grid;
+    align-items: center;
+    grid-template-areas:
+      "logo logo"
+      "contact phone";
+    .logo {
+      grid-area: logo;
       display: block;
       max-width: 30rem;
       margin: 0 auto;
+    }
+    .contact {
+      grid-area: contact;
+    }
+    .phone {
+      grid-area: phone;
+    }
+    @include breakpoints.up("md") {
+      grid-template-areas:
+        "logo . contact"
+        "logo . phone";
+      .logo {
+        margin: 0;
+      }
     }
   }
   & > footer .socials {
