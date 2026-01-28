@@ -97,6 +97,19 @@ body {
     }
     .contact {
       grid-area: contact;
+      position: relative;
+      img {
+        transition: opacity 0.2s;
+      }
+      .hover {
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+      }
+      &:hover {
+        img { opacity: 0; }
+        .hover { opacity: 1; }
+      }
     }
     .phone {
       grid-area: phone;
