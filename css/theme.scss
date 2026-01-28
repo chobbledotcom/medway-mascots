@@ -68,43 +68,64 @@
   --main-heading-color: #55104e;
 }
 
+/* body_classes: header-centered-dark */
+
 body {
   background: url("/images/background.webp");
   background-size: cover;
   background-attachment: fixed;
-}
-
-header {
-  background: rgba(0, 0, 0, 0.5);
-  color: white;
-  @include breakpoints.down("md") {
-    background: none;
-    border: none;
+  & > header {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    @include breakpoints.down("md") {
+      background: none;
+      border: none;
+      box-shadow: none;
+    }
+    img {
+      display: block;
+      max-width: 30rem;
+      margin: 0 auto;
+    }
   }
-}
-
-header img {
-  display: block;
-  max-width: 30rem;
-  margin: 0 auto;
-}
-
-/* body_classes: header-centered-dark */
-
-body > footer .socials li a img,
-body > footer .socials li a:hover img {
-  filter: invert(11%) sepia(29%) saturate(7433%) hue-rotate(291deg)
-    brightness(86%) contrast(97%);
-}
-
-main {
-  h1 {
-    font-family: "Dela Gothic One", sans-serif;
-    color: #572580;
+  & > footer .socials {
+    li a img,
+    li a:hover img {
+      filter: invert(11%) sepia(29%) saturate(7433%) hue-rotate(291deg)
+        brightness(86%) contrast(97%);
+    }
   }
-  h2,
-  h3,
-  h4 {
-    color: #572580;
+  & > main {
+    & > nav {
+      --color-bg: linear-gradient(358deg, #3802a0, #8750f8);
+      --color-link: white;
+      --color-text: yellow;
+      --color-link-hover: yellow;
+      border: 2px solid white;
+      box-shadow: -4px 4px 5px rgba(0, 0, 0, 0.5);
+      & > ul {
+        --color-bg: linear-gradient(
+          172deg,
+          rgba(69, 15, 174, 0.95),
+          rgba(69, 15, 174, 0.5)
+        );
+        border-left: 2px solid white;
+      }
+      @include breakpoints.down("md") {
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+      }
+    }
+
+    h1 {
+      font-family: "Dela Gothic One", sans-serif;
+      color: #572580;
+    }
+    h2,
+    h3,
+    h4 {
+      color: #572580;
+    }
   }
 }
