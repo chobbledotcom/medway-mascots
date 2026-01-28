@@ -116,7 +116,7 @@ body {
     }
     @include breakpoints.up("md") {
       max-width: 100%;
-      margin: 0;
+      margin: 0 auto;
       grid-template-areas:
         "logo . contact"
         "logo . phone";
