@@ -9,6 +9,6 @@
 	"chobble_link": "https://chobble.com/services/chobble-template/",
 	"stripe_publishable_key": null,
 	"products": {
-		"item_list_aspect_ratio": "1/1",
+		"item_list_aspect_ratio": "1/1"
 	}
 }
