@@ -86,11 +86,16 @@ body {
   .site-header {
     display: grid;
     align-items: center;
-    max-width: 30rem;
+    max-width: min(30rem, 100%);
     margin: 0 auto;
+    box-sizing: border-box;
     grid-template-areas:
       "logo logo"
       "contact phone";
+    img {
+      max-width: 100%;
+      height: auto;
+    }
     .logo {
       grid-area: logo;
       display: block;
