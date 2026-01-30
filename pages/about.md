@@ -1,6 +1,7 @@
 ---
 header_text: About Medway Mascots
-meta_description: Learn about Medway Mascots - your local, reliable, and safety-focused inflatable hire company serving South East London since 2013
+meta_description: Learn about Medway Mascots - your local, reliable, and
+  safety-focused inflatable hire company serving South East London since 2013
 meta_title: About Medway Mascots | Bouncy Castle & Party Hire Kent & South East London
 subtitle: Your trusted party hire specialists since 2013
 eleventyNavigation:
@@ -8,8 +9,9 @@ eleventyNavigation:
   order: 3
 layout: base.html
 permalink: /about/
+gallery:
+  - /images/medwaymascots2.jpg
 ---
-
 # About Medway Mascots
 
 Welcome to Medway Mascots – your local, reliable, and safety-focused inflatable hire company based in South East London. We've been bringing joy and energy to parties, school events, corporate functions, and fundraisers since 2013, and we're proud to serve communities across Bexleyheath, Dartford, Welling, Sidcup, Erith, Crayford, Swanley and surrounding areas.
