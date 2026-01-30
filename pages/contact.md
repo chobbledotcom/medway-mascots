@@ -1,6 +1,7 @@
 ---
 header_text: Contact Medway Mascots
-meta_description: Get in touch with Medway Mascots for bouncy castle hire, party equipment, and event planning across Kent and South East London
+meta_description: Get in touch with Medway Mascots for bouncy castle hire, party
+  equipment, and event planning across Kent and South East London
 meta_title: Contact Medway Mascots | Bouncy Castle & Party Hire Kent & London
 subtitle: Ready to make your event unforgettable?
 eleventyNavigation:
@@ -8,8 +9,9 @@ eleventyNavigation:
   order: 4
 layout: contact.html
 permalink: /contact/
+gallery:
+  - /images/medwaymascots2.jpg
 ---
-
 # Get in Touch
 
 You can contact us at any time regarding an enquiry or simply for some friendly advice.
@@ -31,17 +33,17 @@ You can also contact us through our Facebook Page which is regularly updated wit
 
 We will always do our best to accommodate your requirements. If your postcode is not covered please call us as we do deliver outside of these standard areas:
 
-- Dartford
-- Bexleyheath  
-- Welling
-- Sidcup
-- Erith
-- Crayford
-- Swanley
-- Gravesend
-- Medway
-- Sevenoaks
-- Maidstone
-- And surrounding areas throughout Kent and South East London
+*   Dartford
+*   Bexleyheath
+*   Welling
+*   Sidcup
+*   Erith
+*   Crayford
+*   Swanley
+*   Gravesend
+*   Medway
+*   Sevenoaks
+*   Maidstone
+*   And surrounding areas throughout Kent and South East London
 
 Ready to add some bounce to your next event? Use the form below or give us a call!
