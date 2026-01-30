@@ -276,6 +276,14 @@ content:
         label: Gallery
         options:
           multiple: true
+  - name: snippets
+    label: Snippets
+    path: snippets
+    type: collection
+    subfolders: false
+    fields:
+      - { name: name, type: string, label: Name }
+      - { name: body, type: rich-text, label: Body }
   - name: homepage
     label: Homepage Settings
     type: file
