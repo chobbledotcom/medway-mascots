@@ -71,9 +71,14 @@
 /* body_classes: header-centered-dark */
 
 body {
-  background: url("/images/background.webp");
+  background: url("/assets/background.webp");
   background-size: cover;
   background-attachment: fixed;
+  @include breakpoints.down("md") {
+    background-size: auto;
+    background-attachment: scroll;
+    background-repeat: repeat;
+  }
   & > header {
     background: rgba(0, 0, 0, 0.5);
     color: white;
