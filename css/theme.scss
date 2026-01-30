@@ -122,6 +122,10 @@ body {
           .hover { opacity: 1; }
         }
       }
+      &:active {
+        img { opacity: 0; }
+        .hover { opacity: 1; }
+      }
     }
     .phone {
       grid-area: phone;
