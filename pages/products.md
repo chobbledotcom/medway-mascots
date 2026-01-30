@@ -9,8 +9,6 @@ eleventyNavigation:
   order: 2
 layout: products.html
 permalink: /products/
-gallery:
-  - /images/medwaymascots2.jpg
 ---
 # Our Mascot Costumes
 
