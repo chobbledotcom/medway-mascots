@@ -116,9 +116,11 @@ body {
         inset: 0;
         opacity: 0;
       }
-      &:hover {
-        img { opacity: 0; }
-        .hover { opacity: 1; }
+      @media (hover: hover) {
+        &:hover {
+          img { opacity: 0; }
+          .hover { opacity: 1; }
+        }
       }
     }
     .phone {
