@@ -116,7 +116,13 @@ body {
         inset: 0;
         opacity: 0;
       }
-      &:hover {
+      @media (hover: hover) {
+        &:hover {
+          img { opacity: 0; }
+          .hover { opacity: 1; }
+        }
+      }
+      &:active {
         img { opacity: 0; }
         .hover { opacity: 1; }
       }
