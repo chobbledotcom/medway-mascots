@@ -31,7 +31,7 @@ For even more excitement, why not invite Bluey’s little sister Bingo along too
 
 Choosing our **Bluey mascot hire** means choosing fun, reliability, and quality. This mascot is ideal for meet-and-greets, party games, and unforgettable photo opportunities that parents and children alike will treasure.
 
-**Key benefits of our Bluey mascot hire include:**
+### **Key benefits of our Bluey mascot hire include:**
 
 *   Fun, family-friendly entertainment suitable for all ages
     
@@ -54,7 +54,7 @@ Our **Bluey mascot hire** includes a high-quality mascot costume complete with g
 
 All mascot costumes are thoroughly cleaned, checked, and maintained between hires, ensuring they arrive in excellent condition every time. We take pride in offering reliable, professional mascot hire you can trust.
 
-The costume is one-size-fits-all and is best suited for adults size small to large, with a recommended maximum height of **1.8 metres** for comfort and ease of movement.
+The costume is one-size-fits-all and is best suited for adults size small to large, with a recommended maximum height of **6ft** for comfort and ease of movement.
 
 * * *
 
@@ -64,24 +64,18 @@ Our mascot hire process is simple and stress-free. Once booked, you can either c
 
 If you’re searching for fun, memorable, and affordable **Bluey mascot hire**, this much-loved character is guaranteed to bring big smiles and unforgettable moments to your event.
 
-Here’s how the hire process works :
-
-## **Collection Or Delivery?**
+## Here’s how the hire process works :
 
 ### Collection Options:
 
 Our mascots and costumes can be collected directly from **Twydall, Gillingham, ME8** at an agreed time then returned to the same address when the hire is complete. Alternatively, if you are hiring a bouncy castle or soft play package with us from our other website Beyond Bounce the mascot can be delivered alongside your booking free of charge.
 
-Just press the green button below to book online
-
 ### Delivery Options:
 
-Delivery is provided through our preferred logistics partner Parcel Force and for **businesses and charities only**. The cost for this service is £25 for delivery and collection. You may have to return the mascot to the nearest post office or allow us to book a collection slot from you directly.
+Delivery is provided through our preferred logistics partner Parcel Force and for **businesses and charities only**. The cost for this service is £25 for delivery and collection. You may have to return the mascot to the nearest post office or allow us to book a collection slot from you directly. Get in Touch with us through our enquiry form or email [info@medwaymascots.co.uk](mailto:info@medwaymascots.co.uk) to book for a delivery outside of Kent if you're a business or charity.
 
-Get in Touch with us through our enquiry form or email [info@medwaymascots.co.uk](mailto:info@medwaymascots.co.uk) to book for a delivery outside of Kent if you're a business or charity.
+### Deposit and Payment:
 
-## Deposit and Payment:
+When booking online, please pay the £20 booking fee / deposit to reserve your booking. You may pay the balance in cash or payment link for local collections and deliveries.
 
-When booking online, please pay the £20 booking fee / deposit to reserve your booking. You may pay the balance in cash for local collections, deliveries or by payment link.
-
-A £50 cash or bank transfer security deposit is also required upon delivery/collection of the mascot. This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition.
+_A £50 cash or bank transfer security deposit is also required upon delivery/collection of the mascot. This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition._
