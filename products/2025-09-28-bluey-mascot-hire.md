@@ -32,6 +32,8 @@ Here’s how the hire process works :
 
 Our mascots and costumes can be collected directly from **Twydall, Gillingham, ME8** at an agreed time then returned to the same address when the hire is complete. Alternatively, if you are hiring a bouncy castle or soft play package with us from our other website Beyond Bounce the mascot can be delivered alongside your booking free of charge.
 
+Just press the green button below to book online
+
 ### Delivery Options:
 
 Delivery is provided through our preferred logistics partner Parcel Force and for **businesses and charities only**. The cost for this service is £25 for delivery and collection and you may have to return the mascot to the nearest post office or allow us to book a collection slot from you directly.
