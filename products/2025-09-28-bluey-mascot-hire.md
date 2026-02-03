@@ -71,6 +71,12 @@ If you’re searching for fun, memorable, and affordable **Bluey mascot hire**, 
 
 ## Here’s how the hire process works :
 
+### Deposit and Payment:
+
+When booking online, please pay the £20 booking fee / deposit to reserve your booking. You may pay the balance in cash or payment link for local collections and deliveries.
+
+_A £50 cash or bank transfer security deposit is also required upon delivery/collection of the mascot. This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition._
+
 ### Collection Options:
 
 Our mascots and costumes can be collected directly from **Twydall, Gillingham, ME8** at an agreed time then returned to the same address when the hire is complete. Alternatively, if you are hiring a bouncy castle or soft play package with us from our other website Beyond Bounce the mascot can be delivered alongside your booking free of charge.
@@ -78,9 +84,3 @@ Our mascots and costumes can be collected directly from **Twydall, Gillingham, M
 ### Delivery Options:
 
 Delivery is provided through our preferred logistics partner Parcel Force and for **businesses and charities only**. The cost for this service is £25 for delivery and collection. You may have to return the mascot to the nearest post office or allow us to book a collection slot from you directly. Get in Touch with us through our enquiry form or email [info@medwaymascots.co.uk](mailto:info@medwaymascots.co.uk) to book for a delivery outside of Kent if you're a business or charity.
-
-### Deposit and Payment:
-
-When booking online, please pay the £20 booking fee / deposit to reserve your booking. You may pay the balance in cash or payment link for local collections and deliveries.
-
-_A £50 cash or bank transfer security deposit is also required upon delivery/collection of the mascot. This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition._
