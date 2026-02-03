@@ -11,6 +11,9 @@ meta_description: Hire a Bluey mascot plus over 25 high quality
 meta_title: Bluey Mascot & Costume Hire in Gillingham, Gravesend, Dartford,
   Bexley, Rochester, Chatham, and Medway
 subtitle: Hire throughout Medway & Kent
+faqs:
+  - question: What height is the Bluey mascot costume suitable for?
+    answer: 5′4″ to 6′0″ (about 162 cm – 182 cm)
 ---
 # Bluey Mascot Hire - Bring the fun to your party!
 
