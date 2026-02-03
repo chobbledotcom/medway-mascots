@@ -2,6 +2,7 @@
 title: Bluey Mascot Hire
 categories:
   - categories/mascot-hire.md
+  - categories/frozen-mascots.md
 price: £50
 gallery:
   - /images/Product Images/blueycostume.jpg
@@ -16,7 +17,7 @@ subtitle: Hire throughout Medway & Kent
 
 Bring the magic of everyone’s favourite blue heeler pup to your special occasion with our Bluey mascot hire! Full of energy, imagination and fun, Bluey is ready to join in the party, jump into the games and meet your guests whether it be a birthday party, christening, school event or fun day, this mascot will bring plenty of joy and laughter!
 
-Why not invite Bluey’s little sister [PRODUCT139]Bingo[/] along for double the magic! These mascots are the perfect addition to our [PRODUCT107]Bluey Bouncy Castle[/] to complete your Bluey themed event.
+Why not invite Bluey’s little sister \[PRODUCT139\]Bingo\[/\] along for double the magic! These mascots are the perfect addition to our \[PRODUCT107\]Bluey Bouncy Castle\[/\] to complete your Bluey themed event.
 
 💙 What’s included with our Mascot Hire? 💙
 
@@ -28,16 +29,10 @@ Here’s how the hire process works :
 
 Collection or delivery options
 
-The mascot can be collected directly from Twydall, Gillingham at an agreed time then returned to the same address when the hire is complete.
-Alternatively, if you are hiring a bouncy castle or soft play package with us the mascot can be delivered alongside your booking.
-Deposit and payment
+The mascot can be collected directly from Twydall, Gillingham at an agreed time then returned to the same address when the hire is complete. Alternatively, if you are hiring a bouncy castle or soft play package with us the mascot can be delivered alongside your booking. Deposit and payment
 
-A £50 cash security deposit is required upon delivery / collection of the mascot.
-This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition.
+A £50 cash security deposit is required upon delivery / collection of the mascot. This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition.
 
 💙 Why Choose Our Bluey Mascot Hire? 💙
 
-Fun, family friendly entertainment.
-Perfect for party photos and meet & greets.
-A unique way to surprise your little Bluey fan!
-High quality costumes.
+Fun, family friendly entertainment. Perfect for party photos and meet & greets. A unique way to surprise your little Bluey fan! High quality costumes.
