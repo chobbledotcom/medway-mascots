@@ -18,6 +18,10 @@ Bring the magic of everyone’s favourite blue heeler pup to your special occasi
 
 Why not invite Bluey’s little sister Bingo along for double the magic! These mascots are the perfect addition to our Bluey Bouncy Castle to complete your Bluey themed event.
 
+💙 Why Choose Our Bluey Mascot Hire? 💙
+
+Fun, family friendly entertainment. Perfect for party photos and meet & greets. A unique way to surprise your little Bluey fan! High quality costumes.
+
 💙 What’s included with our Mascot Hire? 💙
 
 High quality Bluey mascot costume, including gloves and feet. Please note, this is a costume hire only. Our mascots are cleaned between each hire, examined and repaired so you can expect nothing but the best when hiring from us! Our mascots are one size fits all but please note we do recommend they are most suited to adults size small - large and under 1.8 m in height for the most comfortable fit.
@@ -36,7 +40,7 @@ Just press the green button below to book online
 
 ### Delivery Options:
 
-Delivery is provided through our preferred logistics partner Parcel Force and for **businesses and charities only**. The cost for this service is £25 for delivery and collection and you may have to return the mascot to the nearest post office or allow us to book a collection slot from you directly.
+Delivery is provided through our preferred logistics partner Parcel Force and for **businesses and charities only**. The cost for this service is £25 for delivery and collection. You may have to return the mascot to the nearest post office or allow us to book a collection slot from you directly.
 
 Get in Touch with us through our enquiry form or email [info@medwaymascots.co.uk](mailto:info@medwaymascots.co.uk) to book for a delivery outside of Kent if you're a business or charity.
 
@@ -44,8 +48,6 @@ Deposit and Payment :
 
 Our mascots are £50 to self hire (collect and wear yourself) This can be paid online, through a payment link or by an invoice for regular business customers only.
 
-A £50 cash security deposit is required upon delivery / collection of the mascot. This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition.
+When booking online, please pay the £20 booking fee / deposit to reserve your booking. You may pay the balance in cash for local collections, deliveries or by payment link.
 
-💙 Why Choose Our Bluey Mascot Hire? 💙
-
-Fun, family friendly entertainment. Perfect for party photos and meet & greets. A unique way to surprise your little Bluey fan! High quality costumes.
+A £50 cash or bank transfer security deposit is also required upon delivery/collection of the mascot. This deposit will be returned in full once the mascot costume is returned/collected and has been inspected to ensure it is complete and in good condition.
