@@ -1,5 +1,5 @@
-import { cpSync, existsSync, mkdirSync, renameSync, rmSync } from "node:fs";
-import { extname, join, resolve } from "node:path";
+import { cpSync, existsSync, mkdirSync, readdirSync, renameSync, rmSync, statSync, copyFileSync, unlinkSync } from "node:fs";
+import { extname, join, resolve, relative } from "node:path";
 
 // Paths
 export const root = resolve(import.meta.dir, "..");
@@ -50,21 +50,88 @@ export const git = {
     ]),
 };
 
-// Rsync commands
-const rsyncExcludes = (list) => list.flatMap((e) => ["--exclude", e]);
-const rsyncIncludes = (list) => list.flatMap((e) => ["--include", e]);
+// Rsync implementation (pure JS, no system rsync needed)
+const minimatch = (name, pattern) => {
+  if (pattern.startsWith("**/"))
+    return minimatch(name, pattern.slice(3)) || name.includes("/") && minimatch(name.slice(name.indexOf("/") + 1), pattern);
+  if (pattern.startsWith("*."))
+    return name.endsWith(pattern.slice(1));
+  if (pattern.endsWith("/"))
+    return name === pattern.slice(0, -1);
+  if (pattern.includes("*")) {
+    const re = new RegExp("^" + pattern.replace(/[.+^${}()|[\]\\]/g, "\\$&").replace(/\*/g, ".*") + "$");
+    return re.test(name);
+  }
+  return name === pattern;
+};
 
-export const rsync = (src, dest, opts = {}) =>
-  run([
-    "rsync",
-    "--recursive",
-    ...(opts.update ? ["--update"] : []),
-    ...(opts.delete ? ["--delete"] : []),
-    ...rsyncExcludes(opts.exclude || []),
-    ...rsyncIncludes(opts.include || []),
-    src.endsWith("/") ? src : `${src}/`,
-    dest.endsWith("/") ? dest : `${dest}/`,
-  ]);
+const matchesAny = (name, patterns) => patterns.some((p) => minimatch(name, p));
+
+const walkDir = (dir) => {
+  const results = [];
+  if (!existsSync(dir)) return results;
+  for (const entry of readdirSync(dir, { withFileTypes: true })) {
+    const full = join(dir, entry.name);
+    if (entry.isDirectory()) {
+      results.push({ path: full, name: entry.name, isDir: true });
+      results.push(...walkDir(full));
+    } else {
+      results.push({ path: full, name: entry.name, isDir: false });
+    }
+  }
+  return results;
+};
+
+export const rsync = (src, dest, opts = {}) => {
+  const srcDir = src.endsWith("/") ? src : `${src}/`;
+  const destDir = dest.endsWith("/") ? dest : `${dest}/`;
+  const excludes = opts.exclude || [];
+  const includes = opts.include || [];
+  const hasIncludes = includes.length > 0;
+
+  mkdirSync(destDir, { recursive: true });
+
+  const srcEntries = walkDir(srcDir);
+  const copiedPaths = new Set();
+
+  for (const entry of srcEntries) {
+    const rel = relative(srcDir, entry.path);
+    const segments = rel.split("/");
+    const name = segments[segments.length - 1];
+
+    if (segments.some((s) => matchesAny(s, excludes)) || matchesAny(rel, excludes)) continue;
+    if (hasIncludes && !entry.isDir && !matchesAny(name, includes) && !matchesAny(rel, includes)) continue;
+
+    const destPath = join(destDir, rel);
+    copiedPaths.add(rel);
+
+    if (entry.isDir) {
+      mkdirSync(destPath, { recursive: true });
+    } else {
+      if (opts.update && existsSync(destPath)) {
+        const srcMtime = statSync(entry.path).mtimeMs;
+        const destMtime = statSync(destPath).mtimeMs;
+        if (srcMtime <= destMtime) continue;
+      }
+      mkdirSync(join(destDir, ...segments.slice(0, -1)), { recursive: true });
+      copyFileSync(entry.path, destPath);
+    }
+  }
+
+  if (opts.delete) {
+    const destEntries = walkDir(destDir);
+    for (const entry of destEntries.reverse()) {
+      const rel = relative(destDir, entry.path);
+      if (!copiedPaths.has(rel)) {
+        if (entry.isDir) {
+          rmSync(entry.path, { recursive: true, force: true });
+        } else {
+          unlinkSync(entry.path);
+        }
+      }
+    }
+  }
+};
 
 // Bun commands
 export const bun = {
