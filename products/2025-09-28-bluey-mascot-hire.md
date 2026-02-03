@@ -2,7 +2,6 @@
 title: Bluey Mascot Hire
 categories:
   - categories/mascot-hire.md
-  - categories/frozen-mascots.md
 price: £50
 gallery:
   - /images/Product Images/blueycostume.jpg
