@@ -19,7 +19,7 @@ faqs:
 
 Bring the magic of everyone’s favourite blue heeler pup to your special occasion with our Bluey mascot hire! Full of energy, imagination and fun, Bluey is ready to join in the party, jump into the games and meet your guests whether it be a birthday party, christening, school event or fun day, this mascot will bring plenty of joy and laughter!
 
-Why not invite Bluey’s little sister Bingo along for double the magic! These mascots are the perfect addition to our Bluey Bouncy Castle to complete your Bluey themed event.
+Why not invite Bluey's little sister Bingo along for double the magic! These mascots are the perfect addition to our Bluey Bouncy Castle to complete your Bluey themed event.
 
 💙 Why Choose Our Bluey Mascot Hire? 💙
 

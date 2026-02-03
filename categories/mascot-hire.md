@@ -1,5 +1,5 @@
 ---
-title: "Mascot Hire "
+title: "Mascot Hire"
 featured: true
 meta_description: Medway Mascots has over 25 of the best quality mascots
   available to hire in Medway & Kent at www.medwaymascots.co.uk
