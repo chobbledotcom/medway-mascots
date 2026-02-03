@@ -7,8 +7,8 @@ price: £50
 gallery:
   - /images/Product Images/blueycostume.jpg
 header_text: Self Hire Mascot Service
-meta_description: Plus over 25 high quality mascots you can self hire from
-  Medway Mascots, the party experts
+meta_description: Hire a Bluey mascot plus over 25 high quality
+  mascots  including Bingo too! Book Medway Mascots today!
 meta_title: Bluey Mascot & Costume Hire in Gillingham, Rainham, Hempstead,
   Parkwood, Wigmore, Rochester, Chatham, Bredhurst, Parkwood and Medway
 subtitle: Hire throughout Medway & Kent
