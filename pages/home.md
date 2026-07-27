@@ -33,7 +33,7 @@ This local-first approach allows us to keep prices fair while offering a much mo
 
 ## Our Character Collection
 
-Our mascot collection has been carefully chosen to suit children’s parties, family events and local celebrations across Medway and surrounding areas. We offer a fantastic mix of popular TV characters, party favourites and fun costume options that children instantly recognise and love. From favourites like Bluey and Bingo, Chase, Marshall and Skye, Peppa Pig, Gabby’s Dollhouse, Mickey and Minnie Mouse, Mario and Luigi, through to fun options like a Minion, Stitch, Pink Unicorn and even a Lion, there’s something to suit almost every party theme.
+Our mascot collection has been carefully chosen to suit children’s parties, family events and local celebrations across Medway and surrounding areas. We offer a fantastic mix of popular TV characters, party favourites and fun costume options that children instantly recognise and love. From favourites like our blue dog, Chase, Marshall and Skye, Peppa Pig, Gabby’s Dollhouse, Mickey and Minnie Mouse, Mario and Luigi, through to fun options like a Minion, Stitch, Pink Unicorn and even a Lion, there’s something to suit almost every party theme.
 
 We also offer seasonal and event-friendly mascots, including The Grinch and Elf on the Shelf, making our collection ideal for Christmas parties and festive events. Every mascot costume is checked, cleaned and well maintained before hire, giving you confidence that it’s ready for photos, fun and unforgettable moments. Whether you’re hosting a birthday party at home or organising a school or community event, our mascot collection offers a reliable, local and hassle-free alternative to national courier-based companies.
 
