@@ -12,6 +12,9 @@ jobs:
   build:
     name: Build
     runs-on: ubicloud-standard-8
+    permissions:
+      contents: read
+      deployments: write
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
@@ -90,19 +93,15 @@ jobs:
           mkdir -p ../_site
           mv _site/* ../_site/
 
-      - name: Deploy to Bunny
-        uses: R-J-dev/bunny-deploy@v2.0.6
+      - name: Deploy to Bunny CDN
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        uses: BunnyWay/actions/deploy-site@deploy-site_0.1.1
         with:
-          access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
-          directory-to-upload: _site
-          storage-endpoint: "https://storage.bunnycdn.com"
-          storage-zone-name: "medway-mascots"
-          storage-zone-password: ${{ secrets.BUNNY_STORAGE_ZONE_PASSWORD }}
-          concurrency: "5"
-          enable-delete-action: true
-          enable-purge-pull-zone: true
-          pull-zone-id: 4578817
-          replication-timeout: "15000"
+          site: medway-mascots
+          directory: _site
+          api_key: ${{ secrets.BUNNY_ACCESS_KEY }}
+          cli_version: "0.19"
+          deployments: true
 
   notify-failure:
     name: Notify on Failure
